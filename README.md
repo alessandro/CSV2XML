@@ -14,7 +14,6 @@ Note: The program assumes that the CSV file is comma-separated. You can find a s
 
 ##### License
 This project is licensed under the MIT License - see the "LICENSE.md" file for details.
-Description
 
 ##### Description
 CSV2XML is a simple and efficient tool written in Rust that can come in handy when you need to quickly convert a CSV file to a format that Excel can read. With this program, you can easily and quickly create an XML file that can be opened and manipulated in Excel.
