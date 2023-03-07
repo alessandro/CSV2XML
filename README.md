@@ -11,7 +11,6 @@ CSV2XML is a Rust program that enables you to convert a comma-separated values (
 6. The XML file will be created in the project directory and named "output.xml"
 
 Note: The program assumes that the CSV file is comma-separated. You can find a sample CSV file named "input.csv" in the project directory.
-License
 
 ##### License
 This project is licensed under the MIT License - see the "LICENSE.md" file for details.
